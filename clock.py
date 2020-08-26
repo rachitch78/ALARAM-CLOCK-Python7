@@ -1,4 +1,4 @@
-# alarm_clock.py
+# alarm_clock
 # Description: A simple Python program to make the computer act 
 # like an alarm clock. Start it running from the command line 
 # with a command line argument specifying the duration in minutes 
